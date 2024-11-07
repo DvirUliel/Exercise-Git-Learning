@@ -1,16 +1,17 @@
 # Exercise-Git-Learning
-I edited it using VScode.
+Step-by-Step Project Guide.
 
-## Steps to update files with the terminal:
+## Setting Up a GitHub Repository: 
 
-1. Clone the repositories to your computer.
-2. Navigate to Your Local Repository Folder: "cd ./{your repositories folder name}".
-3. Open file in VScode and change the content.
-4. Use "git status" to see if changes not staged for commit. You will see (with red colored): modified:   README.md.
-5. Use "git add {your edited file}" to update what will be committed.
-6. Then, use "git status" again. You will see (with green colored): modified:   README.md.
-7. After this, Changes to be committed. Use "git commit -m {your edited file}".
-8. Now we can push it to our Github account using "git push origin main" (from origin folder on your computer to the main of the repositories).
+1. Open your terminal.
+2. Clone the repositories to your computer.
+3. Navigate to Your Local Repository Folder: "cd ./{your repositories folder name}".
+4. Open file in VScode and change the content.
+5. Use "git status" to see if changes not staged for commit. You will see (with red colored): modified:   README.md.
+6. Use "git add {your edited file}" to update what will be committed.
+7. Then, use "git status" again. You will see (with green colored): modified:   README.md.
+8. After this, Changes to be committed. Use "git commit -m {your edited file}".
+9. Now we can push it to our Github account using "git push origin main" (from origin folder on your computer to the main of the repositories).
 
 ## Steps to update your local repository with the latest changes from the remote repository:
 
